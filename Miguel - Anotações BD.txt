@@ -1,0 +1,43 @@
+#Comando para criar banco de dados
+CREATE DATABASE biblioteca;
+USE biblioteca;
+
+
+#Comandos para criar as tabelas
+
+CREATE TABLE autor(
+id_autor INT PRIMARY KEY AUTO_INCREMENT,
+nome_autor VARCHAR(100) NOT NULL,
+pais_origem_autor VARCHAR(75) NOT NULL,
+data_nasc_autor DATE NOT NULL
+);
+
+CREATE TABLE livro(
+id_livro INT PRIMARY KEY AUTO_INCREMENT,
+titulo_livro VARCHAR(150) NOT NULL,
+autor_id INT,
+genero_livro VARCHAR(100) NOT NULL,
+ano_publicacao_livro DATE,
+isbn_livro INT,
+FOREIGN KEY (autor_id) REFERENCES autor(id_autor)
+); 
+
+CREATE TABLE usuario (
+id_usuario INT PRIMARY KEY AUTO_INCREMENT,
+nome_usuario VARCHAR(100) NOT NULL,
+email_usuario VARCHAR(150) NOT NULL,
+data_regis_usuario DATE
+);
+
+CREATE TABLE emprestimo(
+id_emprestimo INT PRIMARY KEY AUTO_INCREMENT,
+livro_id INT,
+usuario_id INT, 
+data_emprestimo DATE,
+data_devolu_prevs DATE,
+FOREIGN KEY (livro_id) REFERENCES livro(id_livro),
+FOREIGN KEY (usuario_id) REFERENCES usuario(id_usuario)
+)
+
+
+#Comandos para inserir registros nas tabelas

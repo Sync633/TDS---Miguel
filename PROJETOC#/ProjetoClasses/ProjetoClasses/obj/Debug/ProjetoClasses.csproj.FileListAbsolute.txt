@@ -1,0 +1,7 @@
+C:\Users\Etec-10\Desktop\PROJETOC#\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.exe.config
+C:\Users\Etec-10\Desktop\PROJETOC#\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.exe
+C:\Users\Etec-10\Desktop\PROJETOC#\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.pdb
+C:\Users\Etec-10\Desktop\PROJETOC#\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.AssemblyReference.cache
+C:\Users\Etec-10\Desktop\PROJETOC#\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.CoreCompileInputs.cache
+C:\Users\Etec-10\Desktop\PROJETOC#\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.exe
+C:\Users\Etec-10\Desktop\PROJETOC#\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.pdb

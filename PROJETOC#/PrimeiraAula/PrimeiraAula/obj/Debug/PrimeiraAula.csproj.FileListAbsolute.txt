@@ -1,0 +1,7 @@
+C:\Users\Etec-10\Desktop\PROJETO C#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+C:\Users\Etec-10\Desktop\PROJETO C#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+C:\Users\Etec-10\Desktop\PROJETO C#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+C:\Users\Etec-10\Desktop\PROJETO C#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.AssemblyReference.cache
+C:\Users\Etec-10\Desktop\PROJETO C#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\Etec-10\Desktop\PROJETO C#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+C:\Users\Etec-10\Desktop\PROJETO C#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.pdb

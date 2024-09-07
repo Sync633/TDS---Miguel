@@ -1,0 +1,14 @@
+Descrição Narrativa:
+	
+	1° Passo: Acordar
+	2° Passo: Desligar o alarme
+	3° Passo: Levantar da cama
+	4° Passo: Ir ao banheiro
+	5° Passo: Fazer as necessidades
+	6° Passo: Lavar o rosto
+	7° Passo: Escovar os dentes
+	8° Passo: Dar Bom Dia para a familia 
+	9° Passo: Ir para a cozinha
+	10° Passo: Preparar o Café
+	11° Passo: Tomar o Café Da Manhã
+

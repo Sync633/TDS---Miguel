@@ -1,0 +1,7 @@
+npx create-expo-app (nomedoapp)
+
+npx expo start
+
+
+
+

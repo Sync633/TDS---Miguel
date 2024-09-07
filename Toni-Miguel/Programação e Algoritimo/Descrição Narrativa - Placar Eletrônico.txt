@@ -1,0 +1,48 @@
+  Placar Eletrônico:
+	1° Passo: Cada time deve começar com o valor de gols em 0
+	2° Passo: Cada botão aumenta em 1 o valor de gols da equipe
+	3° Passo: Os times são definidos pelas cores Verde e Vermelho
+	4° Passo: Caso o time verde faça um gol, ativar o botão
+	5° Passo: Caso o time vermelho faça um gol, ativar o botão
+
+ Resolução do professor: 
+
+1- Se houver gol (ponto) então
+2-    se o ponto for do time verde então
+3-	     clicar no botão + do placar verde
+4- 	     adicionar +1 ao placar verde
+5-    senão
+6-           clicar no botão + do placar vermelho
+7-	     adicionar +1 ao placar vermelho
+8-    fimse
+9- fimse
+
+ Caso houvesse anulação de gols, criar um processo para "confirmação do VAR" e coloca-lo antes de adicionar pontos para os times.
+
+1- Se houver gol (ponto) então
+1.1-  Aguardar confirmação do VAR
+2-    se o ponto for do time verde então
+3-	     clicar no botão + do placar verde
+4- 	     adicionar +1 ao placar verde
+5-    senão
+6-           clicar no botão + do placar vermelho
+7-	     adicionar +1 ao placar vermelho
+8-    fimse
+9- fimse
+
+ Com base no código refatorado corretamente, inclua a ação de zerar o placar:
+
+1- Se houver gol (ponto) então
+2-    se o ponto for do time verde então
+3-	     clicar no botão + do placar verde
+4- 	     adicionar +1 ao placar verde
+5-    senão
+6-           clicar no botão + do placar vermelho
+7-	     adicionar +1 ao placar vermelho
+8-    fimse
+9- fimse
+10- Se a partida == encerrada então
+11-    habilitar o botão zerar placar
+12-    clicar no zerar placar
+13-    definir placar verde=0, placar vermelho=0
+14- fimse

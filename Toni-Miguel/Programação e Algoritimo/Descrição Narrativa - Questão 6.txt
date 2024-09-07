@@ -1,0 +1,31 @@
+6- Crie um algoritimo narrativo: Pagar conta Divida
+
+1. Verificar o saldo da conta
+2. Saldo sulficiente= Verdadeiro (sim)
+	Pagar a conta
+   Saldo sulficiente= Falso (sim)
+	Trabalhe para conseguir dinheiro
+	Pague a conta
+
+------------------------------------------------------------------------------------------------
+
+	Resolução do Professor
+
+1.Se dinheiro >= Conta? (verdadeiro)
+	Pagar a conta
+
+  dinheiro < Conta? (verdadeiro)
+	Ficar devendo
+
+-----------------------------------------------------
+
+
+	Mais correto de escrever e ler:
+
+	Se dinheiro >= conta
+	   pagar
+
+	senão (caso contrário)
+	   ficar devendo
+
+	fimse

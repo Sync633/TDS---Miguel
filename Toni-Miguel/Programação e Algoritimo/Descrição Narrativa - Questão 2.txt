@@ -1,0 +1,36 @@
+2- Utilizando a Descrição Narrativa demonstre um algoritimo para calcular o valor total de um produto considerando seu preço unitário e a quantidade comprada
+
+1° Passo: Obter o valor do produto e a quantidade comprada
+2° Passo: Multiplicar o valor do produto pela quantidade comprada
+3° Passo: Exibir o resultado que será, o valor total do produto
+
+
+   Resolução do Professor:
+
+1. Obter o valor unitário do produto
+2. Obter a quantidade comprada
+3. Realizar o calculo (valor unitário * quantidade comprada)
+4. Exibir o resultado como Total do produto para o usuário
+
+------------------------------------------------------------------------------------------------------------------
+
+3- Crie um algoritimo (narrativo) que seja capaz de identificar uma pessoa como Maior ou Menor de idade, com base em sua idade mencionada
+
+1° Passo: Obter a Idade da pessoa
+2° Passo: Verificar se a Idade da pessoa é >= que 18
+3° Passo: Caso seja mostrar Maior de Idade
+4° Passo: Senão, mostar Menor de Idade
+
+
+  Resolução do Professor:
+
+1. Obter o valor da idade
+2. Se idade >= 18 então 
+
+	a. Mostrar para o usuário: "Maior de Idade"
+
+3. Senão
+	
+	a. Mostar para o usuário: "Menor de Idade"
+
+4. Fimse

@@ -1,0 +1,7 @@
+C:\Users\Etec-10\Desktop\PROJETOC#\AulaRevisao\AulaRevisao\bin\Debug\AulaRevisao.exe.config
+C:\Users\Etec-10\Desktop\PROJETOC#\AulaRevisao\AulaRevisao\bin\Debug\AulaRevisao.exe
+C:\Users\Etec-10\Desktop\PROJETOC#\AulaRevisao\AulaRevisao\bin\Debug\AulaRevisao.pdb
+C:\Users\Etec-10\Desktop\PROJETOC#\AulaRevisao\AulaRevisao\obj\Debug\AulaRevisao.csproj.AssemblyReference.cache
+C:\Users\Etec-10\Desktop\PROJETOC#\AulaRevisao\AulaRevisao\obj\Debug\AulaRevisao.csproj.CoreCompileInputs.cache
+C:\Users\Etec-10\Desktop\PROJETOC#\AulaRevisao\AulaRevisao\obj\Debug\AulaRevisao.exe
+C:\Users\Etec-10\Desktop\PROJETOC#\AulaRevisao\AulaRevisao\obj\Debug\AulaRevisao.pdb

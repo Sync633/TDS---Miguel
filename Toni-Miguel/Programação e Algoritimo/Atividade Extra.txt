@@ -1,0 +1,5 @@
+1 Atividade
+
+1.Passo - Obter o Valor da Conta/Fatura
+2.Passo - Dividir o valor pelo números de amigos/pessoas
+3.Passo - Mostrar quanto cada um deve pagar

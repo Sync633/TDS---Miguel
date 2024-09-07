@@ -1,0 +1,23 @@
+5- Crie um algoritimo narrativo: Atravessar uma rua que possua semáforo
+
+0. Procure uma Faixa de Pedestre
+1. Verifique se o semáforo está verde
+	1.1 Se sim, atravesse a faixa
+	
+	Senão 
+	
+	1.2 Aguarde até ficar verde
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+	
+	Resolução do Professor
+
+P1- Olhar o semáforo
+P2- Verde=verdadeiro? (sim)
+	atravessar/passar
+    Verde=falso? (sim) = é o mesmo que vermelho=veradeiro
+	aguardar
+	atravessar/passar
+
+		
+	*(Quando tenho que tomar uma decisão uso ela como verdadeiro ou falsa e 2 comparações diferentes)

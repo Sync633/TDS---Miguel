@@ -1,0 +1,12 @@
+		Torre De Hanói
+
+1° Passo: Mover o Disco 1 para a Torre 3
+2° Passo: Mover o Disco 2 para a Torre 2
+3° Passo: Mover o Disco 1 para cima do Disco 2 na Torre 2
+4° Passo: Mover o Disco 3 para Torre 3
+5° Passo: Mover o Disco 1 para Torre 1
+6° Passo: Mover o Disco 2 para cima do Disco 3 na Torre 3
+7° Passo: Mover o Disco 1 para cima dos outros 2 discos
+
+		Concluido! :D
+

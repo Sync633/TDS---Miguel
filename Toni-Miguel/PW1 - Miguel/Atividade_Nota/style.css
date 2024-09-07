@@ -1,0 +1,186 @@
+body{
+    background-color: rgba(0, 21, 0, 0.9);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("/imgs/pngwing.com.png");
+    background-size: contain;
+}
+
+p{
+    text-indent: 2.5em;
+    margin: 8px;
+}
+
+a{
+    text-decoration: none;
+    font-family:sans-serif
+}
+
+.header{
+    
+    padding-inline: 16px;
+}
+
+.nav{
+    max-width: 1280px;
+    height: 70px;
+    margin-inline: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    font-size: 48px;
+}
+
+.nav-list{
+    display: flex;
+    gap: 32px;
+    list-style: none;
+
+}
+
+.nav-list a{
+    font-size: 18px;
+    color:#fff;
+    padding-block: 16px;
+}
+
+.hero{
+    height: calc(100vh - 70px);
+    background: center / cover no-repeat url("./bg.jpg");
+
+}
+
+header div {
+    background-color: #0e3f09;
+    margin-right: 350px;
+    margin-left: 350px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+header h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #b5df9e;
+}
+
+.S1{
+    background-color: #305c26;
+    margin-right: 125px;
+    margin-left: 125px;
+    border-radius: 20px;
+    
+}
+
+.S1 h2{
+    color: #072005;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.S1 h3{
+    color: #072005;
+    font-size: 30px;
+    padding-top: 25px;
+    padding-left: 120px;
+}
+
+.S1 p{
+    color: #64ad54;
+    font-size: 23px;
+    padding-left: 75px;
+    padding-right: 75px;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+
+.S1 ul{
+    color: #64ad54;
+    font-size: 23px;
+    padding-left: 150px;
+    padding-right: 75px;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+
+.S1 div{
+    text-align: center;
+}
+
+.S1 div .img1{
+    width: 500px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+}
+
+.S1 div .img2{
+    width: 500px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+}
+
+.S1 div .img3{
+    width: 600px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+}
+
+.S1 div .img4{
+    width: 500px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+}
+
+.S1 div .img5{
+    width: 500px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+}
+
+.li{
+    display: none;
+    border: none;
+    background: none;
+    border-top: 3px solid #fff;
+    cursor: pointer;
+}
+
+.li ::before
+.li ::after{
+    content: "";
+    display: block;
+    width: 30px;
+    height: 3px;
+    background: #fff;
+    margin-top: 5px;
+
+}
+
+@media (max-width: 750px) {
+    .li{
+        display: block;
+
+    }
+
+    .nav-list{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vw;
+        background:  #64ad54;
+        clip-path: circle(100px at 90%-15%);
+
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        gap:0
+
+
+    }
+}

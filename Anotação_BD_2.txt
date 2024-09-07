@@ -1,0 +1,24 @@
+--Comando {CREATE DATABASE} cria um banco de dados
+CREATE DATABASE biblioteca;
+
+/*Comando {USE} seleciona um banco de dados */
+USE biblioteca;
+
+/* Comando para criar a table autor */
+CREATE TABLE autor(
+id_autor INT PRIMARY KEY NOT null,
+nome_autor VARCHAR(75) NOT NULL,
+pais_origem_autor VARCHAR(50) NOT NULL,
+data_nasc_autor DATE NOT NULL,
+genero_liter_autor VARCHAR(100) NOT NULL
+);
+
+
+
+CREATE TABLE editora(
+id_editora INT PRIMARY KEY AUTO_INCREMENT,
+nome_editora VARCHAR(50) NOT NULL,
+local_editora VARCHAR(100) NOT NULL,
+ano_fund_editora int NOT NULL
+);
+

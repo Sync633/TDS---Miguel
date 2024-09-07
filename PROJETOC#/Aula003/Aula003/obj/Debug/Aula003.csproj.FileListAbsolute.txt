@@ -1,0 +1,7 @@
+C:\Users\Etec-10\Desktop\PROJETOC#\Aula003\Aula003\bin\Debug\Aula003.exe.config
+C:\Users\Etec-10\Desktop\PROJETOC#\Aula003\Aula003\bin\Debug\Aula003.exe
+C:\Users\Etec-10\Desktop\PROJETOC#\Aula003\Aula003\bin\Debug\Aula003.pdb
+C:\Users\Etec-10\Desktop\PROJETOC#\Aula003\Aula003\obj\Debug\Aula003.csproj.AssemblyReference.cache
+C:\Users\Etec-10\Desktop\PROJETOC#\Aula003\Aula003\obj\Debug\Aula003.csproj.CoreCompileInputs.cache
+C:\Users\Etec-10\Desktop\PROJETOC#\Aula003\Aula003\obj\Debug\Aula003.exe
+C:\Users\Etec-10\Desktop\PROJETOC#\Aula003\Aula003\obj\Debug\Aula003.pdb

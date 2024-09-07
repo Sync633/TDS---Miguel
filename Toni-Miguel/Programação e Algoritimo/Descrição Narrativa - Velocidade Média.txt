@@ -1,0 +1,6 @@
+	Calculo para Obter a Velocidade Média
+
+1 Passo. Obter a distância até o destino
+2 Passo. Obter o tempo até o destino
+3 Passo. Calcular a razão entre a Distância e o Tempo
+4 Passo. Mostrar o Resultado obtido

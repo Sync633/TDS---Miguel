@@ -1,0 +1,36 @@
+[
+    {
+        "id": "0",
+        "nome": "Miguel",
+        "email": "miguel123@gmail.com",
+        "telefone": "(13)99748-8943"
+    },
+
+    {
+        "id": "1",
+        "nome": "Gabriel",
+        "email": "gabriel123@gmail.com",
+        "telefone": "(13)99645-0854"
+    },
+    
+    {
+        "id": "2",
+        "nome": "João",
+        "email": "joao123@gmail.com",
+        "telefone": "(13)98139-8565"
+    },
+
+    {
+        "id": "3",
+        "nome": "Eliseu",
+        "email": "eliseu123@gmail.com",
+        "telefone": "(13)99610-4332"
+    },
+
+    {
+        "id": "4",
+        "nome": "Junin",
+        "email": "caludinei123@gmail.com",
+        "telefone": "(13)99674-2798"
+    }
+]

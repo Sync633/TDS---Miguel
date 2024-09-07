@@ -1,0 +1,11 @@
+4- Crie um algoritimo narrativo para o processo: Dar uma volta no quarterão.
+
+1. Inicie o trajeto seguindo em frente
+2. Vire para a Direita Na Esquina 1
+3. Siga em frente
+4. Vire para a Direita na Esquina 2
+5. Siga em frente
+6. Vire para a Direita na Esquina 3
+7. Siga em frente
+8. Vire para a Direita na Esquina 4
+9. Chegue ao ponto de inicio

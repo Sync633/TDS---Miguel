@@ -1,0 +1,19 @@
+1. Entrar na pagina de cadastro de um site
+2. Inserir e-mail 
+3. E-mail Válido
+	senão 	
+	Mensagem: "Este e-mail já foi cadastrado, insira sua senha"
+4.Crie uma senha
+	
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+	Resolucão correta do professor:
+
+Passo 1: Solicitar o email que será cadastrado
+Passo 2: Verificar se o email já existe no sistema
+Passo 3: Se o email já existe. Mostrar
+	"Email já cadastrado"
+	"Digite a senha ou recupere a senha"
+
+	
+	

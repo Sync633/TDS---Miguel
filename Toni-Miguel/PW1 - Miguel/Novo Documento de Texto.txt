@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+
+
+<title>Meu Site</title>
+
+</head> 
+
+
+<body>
+	<h1>Meu Primeiro Titulo</h1>
+	<h3>Esse titulo tem uma conotação semantica relativamente inferior ao H1 e H2</h3>
+
+	<p>Linha 1 de texto</p>
+	<p>Linha 2 de texto</p>
+	<p>Terceira linha</p>
+
+
+	<p>E começou outro paragrafo <br> este conteúdo ainda faz parte do mesmo parágrafo</p>
+
+
+	<hr>
+	
+
+
+	<p>Neste paragrafo vamos <b>negritar</b> e deixar um texto <strong>forte</strong> para teste</p>
+
+	<p>Deixar a palavra em <i>itálico</i> para dar enfáse</p>
+
+	<p>Deixar a palavra <small>pequena</small>
+
+
+
+
+</body>
+
+
+</html>
