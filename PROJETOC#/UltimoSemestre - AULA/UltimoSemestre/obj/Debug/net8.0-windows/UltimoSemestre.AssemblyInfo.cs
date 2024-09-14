@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UltimoSemestre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd751e8e1a37e4f296e8961eefbf218587c9088")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72175c5fcf63ae3230f201bf06f4c1a4160cc8cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("UltimoSemestre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UltimoSemestre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

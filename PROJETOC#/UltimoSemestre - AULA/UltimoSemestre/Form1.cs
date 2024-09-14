@@ -31,6 +31,7 @@ namespace UltimoSemestre
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            dgvEmpregados.Width = this.Width - 50;
             dgvEmpregados.DataSource = em.Consultar();
             dgvEmpregados.Columns[0].Visible = false;
             dgvEmpregados.Columns[1].Width = (this.Width / 100) * 40;
@@ -38,13 +39,9 @@ namespace UltimoSemestre
             dgvEmpregados.Columns[3].Width = (this.Width / 100) * 20;
         }
 
-
-
-
-
-
-        private void frmEmpregados_SizeChanged(object sender, EventArgs e)
+        private void Form1_SizeChanged(object sender, EventArgs e)
         {
+
             dgvEmpregados.Width = this.Width - 50;
         }
     }
