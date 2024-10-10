@@ -1,0 +1,21 @@
+use ('familia')
+
+db.integrantes.insertMany([
+  {id: 1, nome: "Sergio Pereira", idade: 59},
+  {id: 2, nome: "Maria das Graças dos Santos Pereira", idade: 42},
+  {id: 3, nome: "Miguel Santos Pereira", idade: 17},
+  {id: 4, nome: "Isabelly Santos Pereira", idade: 9}
+])
+
+db.integrantes.insertOne({id: 5, nome: "Letícia", idade: 16})
+
+db.integrantes.updateOne(
+	{nome: "Letícia"},
+	{$set: {nome: "Letícia da Cruz Siqueira"}})
+
+db.integrantes.find()
+
+db.integrantes.deleteOne ({nome:"Letícia da Cruz Siqueira"})
+
+db.integrantes.find({nome: "Miguel Santos Pereira"})
+

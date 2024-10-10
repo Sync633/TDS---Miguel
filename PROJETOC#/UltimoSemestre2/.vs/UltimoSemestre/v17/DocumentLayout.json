@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\ultimosemestre\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\etec-10\\desktop\\tds - miguel\\projetoc#\\ultimosemestre2\\ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\etec-10\\desktop\\tds - miguel\\projetoc#\\ultimosemestre2\\ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\etec-10\\desktop\\tds - miguel\\projetoc#\\ultimosemestre2\\ultimosemestre\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\etec-10\\desktop\\tds - miguel\\projetoc#\\ultimosemestre2\\ultimosemestre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\ultimosemestre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "frmClientes.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\UltimoSemestre\\frmClientes.cs",
               "RelativeDocumentMoniker": "UltimoSemestre\\frmClientes.cs",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmTelaInicial.cs",
               "DocumentMoniker": "C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\UltimoSemestre\\frmTelaInicial.cs",
               "RelativeDocumentMoniker": "UltimoSemestre\\frmTelaInicial.cs",
               "ToolTip": "C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\UltimoSemestre\\frmTelaInicial.cs",
               "RelativeToolTip": "UltimoSemestre\\frmTelaInicial.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAnwCIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T01:35:49.355Z",
               "EditorCaption": ""
@@ -75,20 +75,18 @@
               "RelativeToolTip": "UltimoSemestre\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:27:32.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T01:27:32.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmTelaInicial.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\UltimoSemestre\\frmTelaInicial.cs",
               "RelativeDocumentMoniker": "UltimoSemestre\\frmTelaInicial.cs",
               "ToolTip": "C:\\Users\\Etec-10\\Desktop\\TDS - Miguel\\PROJETOC#\\UltimoSemestre2\\UltimoSemestre\\frmTelaInicial.cs [Projeto]",
               "RelativeToolTip": "UltimoSemestre\\frmTelaInicial.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:23:00.739Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-09-28T01:23:00.739Z"
             },
             {
               "$type": "Document",
